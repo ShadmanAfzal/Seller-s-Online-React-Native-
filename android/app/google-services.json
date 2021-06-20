@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "59464393788",
+    "project_id": "seller-s-online",
+    "storage_bucket": "seller-s-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59464393788:android:2a2aef393e69e32ee5cf39",
+        "android_client_info": {
+          "package_name": "com.selleronline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59464393788-ri86rujpddt5c7jmh3dp3m4oq5cu8op3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.selleronline",
+            "certificate_hash": "07f4c1b130dbb3104af2d0cfe4f60bf435e4fcfc"
+          }
+        },
+        {
+          "client_id": "59464393788-41upueticu9staj1m0002jjtnt27118k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCcL8QZVBDOotD_RsPcl3tc0mBoq-mAJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59464393788-41upueticu9staj1m0002jjtnt27118k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
