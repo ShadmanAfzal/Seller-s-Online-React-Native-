@@ -1,7 +1,8 @@
 # Seller's Online (*React Native*)
 
 App for connecting consumer to consumer for buying and selling products.
-###Build with React Native
+
+Build with *React Native*
 - used Firebase Services like Firestore, Firebase Auth, Firebase Storage
 - used Google Siging Provider
 - Lottie Animation
