@@ -1,0 +1,56 @@
+{
+  "name": "SellerOnline",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@react-native-community/masked-view": "^0.1.11",
+    "@react-native-firebase/app": "^12.0.0",
+    "@react-native-firebase/auth": "^12.0.0",
+    "@react-native-firebase/firestore": "^12.0.0",
+    "@react-native-firebase/functions": "^12.1.0",
+    "@react-native-firebase/messaging": "^12.1.0",
+    "@react-native-firebase/storage": "^12.0.0",
+    "@react-native-google-signin/google-signin": "^6.0.0",
+    "@react-navigation/native": "^5.9.4",
+    "@react-navigation/stack": "^5.14.5",
+    "framer-motion": "^4.1.17",
+    "lottie-react-native": "^4.0.2",
+    "moment": "^2.29.1",
+    "react": "17.0.1",
+    "react-native": "0.64.2",
+    "react-native-awesome-alerts": "^1.5.0",
+    "react-native-dropdown-picker": "^5.1.21",
+    "react-native-gesture-handler": "^1.10.3",
+    "react-native-hyperlink": "0.0.19",
+    "react-native-image-crop-picker": "^0.36.2",
+    "react-native-image-pan-zoom": "^2.1.12",
+    "react-native-image-picker": "^4.0.3",
+    "react-native-popup-menu": "^0.15.11",
+    "react-native-reanimated": "^2.2.0",
+    "react-native-safe-area-context": "^3.2.0",
+    "react-native-screens": "^3.3.0",
+    "react-native-svg": "^12.1.1",
+    "react-native-vector-icons": "^8.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.14.3",
+    "@babel/runtime": "7.14.0",
+    "@react-native-community/eslint-config": "2.0.0",
+    "babel-jest": "26.6.3",
+    "eslint": "7.14.0",
+    "jest": "26.6.3",
+    "metro-react-native-babel-preset": "0.64.0",
+    "react-native-gesture-bottom-sheet": "^1.0.4",
+    "react-test-renderer": "17.0.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
